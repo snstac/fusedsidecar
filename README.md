@@ -27,7 +27,7 @@ Fused Sidecar App is a Fused Location Provider for the Android Team Awareness Ki
 
 ![Fused Sidecar App permissions background on](docs/app_permissions_on.png)
 
-![Fused Sidecar App ATAK](docs/ATAK.png)
+![Fused Sidecar App ATAK](docs/atak.png)
 
 
 ## Author
