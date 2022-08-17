@@ -40,6 +40,10 @@ class MainActivity : AppCompatActivity() {
             arrayOf<String>(Manifest.permission.ACCESS_FINE_LOCATION), 200
         )
 
+        requestPermissionsSafely(
+            arrayOf<String>(Manifest.permission.ACCESS_BACKGROUND_LOCATION), 200
+        )
+
         txtStartService.setOnClickListener {
             mLocationService = LocationService()
             mServiceIntent = Intent(this, mLocationService.javaClass)
