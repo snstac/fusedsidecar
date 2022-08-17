@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fused Sidecar</string>
+    <string name="service_already_running">Fused Sidecar is already running</string>
+    <string name="service_start_successfully">Fused Sidecar started</string>
+    <string name="gps_enable">GPS enable</string>
+    <string name="please_turn_on_gps">Please turn on GPS</string>
+    <string name="ok">Ok</string>
+    <string name="start_button">Start Fused Sidecar</string>
+</resources>
