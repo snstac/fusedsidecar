@@ -6,7 +6,7 @@ Fused Sidecar App is a Fused Location Provider for the Android Team Awareness Ki
 
 ## Install
 
-1. Download & Install APK.
+1. Download & Install APK: https://github.com/ampledata/fusedsidecar/suites/7847830196/artifacts/332300606
 2. Start 'Fused Sidecar'.
 
 ### Screenshots
