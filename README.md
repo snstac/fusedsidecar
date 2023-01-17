@@ -8,7 +8,7 @@ A video walk-through is available at: https://youtu.be/q8TDWoEyGAc
 
 ## Install
 
-1. Download & Install APK: https://www.dropbox.com/s/z0tb5tl06gehvlw/app.zip?dl=0
+1. Download & Install [app-debug.apk](https://github.com/ampledata/fusedsidecar/raw/main/app-debug.apk) APK from this repo.
 2. Start 'Fused Sidecar'.
 
 ### Screenshots
